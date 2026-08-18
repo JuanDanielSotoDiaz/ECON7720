@@ -17,6 +17,7 @@ Interactive simulations for the ECON7720 lecture series.
 | Simulation | Colab |
 |---|---|
 | Pollution Control Simulations (standard, tax, cap-and-trade, Weitzman) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanDanielSotoDiaz/ECON7720/blob/main/simulations/pollution_control_simulations.ipynb) |
+| Non-Uniformly Mixed Pollutants (transfer coefficients, ambient charges, trading ratios, hotspots) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanDanielSotoDiaz/ECON7720/blob/main/simulations/nonuniform_pollutants_simulations.ipynb) |
 
 ## Lecture slides
 
