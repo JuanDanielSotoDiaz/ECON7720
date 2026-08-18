@@ -17,7 +17,6 @@ Interactive simulations for the ECON7720 lecture series.
 | Simulation | Colab |
 |---|---|
 | Pollution Control Simulations (standard, tax, cap-and-trade, Weitzman) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanDanielSotoDiaz/ECON7720/blob/main/simulations/pollution_control_simulations.ipynb) |
-| Cap-and-Trade (standalone) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanDanielSotoDiaz/ECON7720/blob/main/simulations/cap_and_trade.ipynb) |
 
 ## Lecture slides
 
