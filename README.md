@@ -2,26 +2,33 @@
 
 **The University of Queensland | Semester 2, 2026**
 
-Interactive simulations for the ECON7720 lecture series.
+Course website: [juandanielsotodiaz.github.io/ECON7720](https://juandanielsotodiaz.github.io/ECON7720/)
 
-## Simulations
+## Lecture Slides
 
-### Lecture 03 — The Economics of Pollution Control I
+| # | Topic | PDF |
+|---|-------|-----|
+| 1 | Course Introduction & The Economic Approach (I) | [Lecture 01](slides/Lecture_01.pdf) |
+| 2 | The Economic Approach (II) | [Lecture 02](slides/Lecture_02.pdf) |
+| 3 | The Economics of Pollution Control (I) | [Lecture 03](slides/Lecture_03.pdf) |
+| 4 | The Economics of Pollution Control (II) | [Lecture 04](slides/Lecture_04.pdf) |
+| 5 | Air Pollution | [Lecture 05](slides/Lecture_05.pdf) |
+| 6 | Water Pollution | [Lecture 06](slides/Lecture_06.pdf) |
+| 7 | Climate Change I | [Lecture 07](slides/Lecture_07.pdf) |
+| 8 | Climate Change II | [Lecture 08](slides/Lecture_08.pdf) |
+| 9 | Evaluating Trade-offs | [Lecture 09](slides/Lecture_09.pdf) |
+| 10 | Valuing the Environment | *coming soon* |
+| 11 | Valuation & Cost-Benefit Analysis | *coming soon* |
+| 12 | Ecosystem Services | *coming soon* |
+| 13 | Sustainable Development | *coming soon* |
 
-| Simulation | Colab |
-|---|---|
-| Tragedy of the Commons | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanDanielSotoDiaz/ECON7720/blob/main/simulations/tragedy_of_commons.ipynb) |
+## Interactive Simulations
 
-### Lecture 04 — The Economics of Pollution Control II
-
-| Simulation | Colab |
-|---|---|
-| Pollution Control Simulations (standard, tax, cap-and-trade, Weitzman) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanDanielSotoDiaz/ECON7720/blob/main/simulations/pollution_control_simulations.ipynb) |
-| Non-Uniformly Mixed Pollutants (transfer coefficients, ambient charges, trading ratios, hotspots) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanDanielSotoDiaz/ECON7720/blob/main/simulations/nonuniform_pollutants_simulations.ipynb) |
-
-## Lecture slides
-
-Slides are available on the [course Blackboard site](https://learn.uq.edu.au).
+| Lecture | Simulation | Colab |
+|---------|-----------|-------|
+| 3 | Tragedy of the Commons | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanDanielSotoDiaz/ECON7720/blob/main/simulations/tragedy_of_commons.ipynb) |
+| 4 | Pollution Control Simulations (standard, tax, cap-and-trade, Weitzman) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanDanielSotoDiaz/ECON7720/blob/main/simulations/pollution_control_simulations.ipynb) |
+| 4 | Non-Uniform Pollutants (transfer coefficients, ambient charges, trading ratios) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanDanielSotoDiaz/ECON7720/blob/main/simulations/nonuniform_pollutants_simulations.ipynb) |
 
 ## Requirements
 
@@ -29,7 +36,7 @@ Slides are available on the [course Blackboard site](https://learn.uq.edu.au).
 pip install numpy matplotlib ipywidgets
 ```
 
-Or just click a Colab badge above — everything installs automatically.
+Or click a Colab badge above.
 
 ## Licence
 

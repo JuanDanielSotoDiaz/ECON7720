@@ -1,4 +1,4 @@
-name: Build and Deploy JupyterLite
+name: Build and Deploy Site
 
 on:
   push:
@@ -25,7 +25,12 @@ jobs:
 
       - name: Build JupyterLite
         run: |
-          jupyter lite build --contents content --output-dir dist
+          jupyter lite build --contents content --output-dir dist/jupyterlite
+
+      - name: Assemble site
+        run: |
+          cp index.html dist/index.html
+          cp -r slides dist/slides
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
